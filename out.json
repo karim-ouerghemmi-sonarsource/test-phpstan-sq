@@ -1,0 +1,1 @@
+{"totals":{"errors":0,"file_errors":1},"files":{"/app/src/test.php":{"errors":1,"messages":[{"message":"Variable $x might not be defined.","line":3,"ignorable":true}]}},"errors":[]}
